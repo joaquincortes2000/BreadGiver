@@ -7,5 +7,8 @@ namespace BreadGiver.Models
 {
     public class Rol
     {
+        public int IdRol { get; set; }
+        public string TipoRol { get; set; }
+
     }
 }
