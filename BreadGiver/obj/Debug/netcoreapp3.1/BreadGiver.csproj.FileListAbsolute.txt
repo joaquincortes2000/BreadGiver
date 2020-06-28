@@ -185,3 +185,5 @@ C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Ra
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Cotizacion.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\RegistroItem.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\RegistroItem.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Inventario.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Inventario.razor.g.cs
