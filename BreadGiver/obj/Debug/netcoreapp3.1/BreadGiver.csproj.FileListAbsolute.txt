@@ -63,7 +63,6 @@ C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\bin\Debug\netcoreapp3.1\Br
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\BreadGiver.csprojAssemblyReference.cache
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\BreadGiver.RazorComponent.input.cache
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
@@ -165,7 +164,6 @@ C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Br
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\BreadGiver.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\BreadGiver.dll
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
@@ -181,3 +179,9 @@ C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Ra
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\CarroCompra.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\CardProduct.razor.g.cs
 C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Shared\CardProduct.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\PerfilUsuario.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\PerfilUsuario.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Cotizacion.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Cotizacion.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\RegistroItem.razor.g.cs
+C:\Users\joaqu\Documents\GitHub\BreadGiver\BreadGiver\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\RegistroItem.razor.g.cs
